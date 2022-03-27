@@ -1,4 +1,4 @@
 
-<Version: 1.03>
-/data/aaa.png http://i.imgur.com/Q6hkatD.png
+<Version: 1.04>
+/data/Map001.json https://raw.githubusercontent.com/tentran2k1/vungdatringo/main/Map001.json
 <End of Version>
