@@ -1,4 +1,4 @@
 
-<Version: 1.04>
-/data/Map001.json https://raw.githubusercontent.com/tentran2k1/vungdatringo/main/Map001.json
+<Version: 1.05>
+/data/Map001.json https://raw.githubusercontent.com/tentran2k1/vungdatringo/main/data/Map001.json
 <End of Version>
