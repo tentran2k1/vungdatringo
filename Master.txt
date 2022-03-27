@@ -1,4 +1,4 @@
 
-<Version: 1.01>
-/data/test.zip http://i.imgur.com/Q6hkatD.png
+<Version: 1.02>
+/data/aaa.png http://i.imgur.com/Q6hkatD.png
 <End of Version>
