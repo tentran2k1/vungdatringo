@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP","order":15,"parentId":10,"scrollX":1767.6,"scrollY":2352.6},
+{"id":2,"expanded":true,"name":"Cổng làng","order":1,"parentId":0,"scrollX":634.8,"scrollY":359.4},
+{"id":3,"expanded":true,"name":"Làng tân thủ","order":2,"parentId":2,"scrollX":634.8,"scrollY":504.59999999999997},
+{"id":4,"expanded":true,"name":"Bìa rừng","order":5,"parentId":3,"scrollX":716,"scrollY":399.3333333333333},
+{"id":5,"expanded":false,"name":"Khu tập huấn","order":9,"parentId":7,"scrollX":644.4,"scrollY":359.4},
+{"id":6,"expanded":false,"name":"Vách núi","order":10,"parentId":3,"scrollX":634.8,"scrollY":465},
+{"id":7,"expanded":true,"name":"Rừng Sương Mù","order":6,"parentId":4,"scrollX":644.4,"scrollY":359.4},
+{"id":8,"expanded":true,"name":"Ven sông","order":7,"parentId":7,"scrollX":644.4,"scrollY":359.4},
+{"id":9,"expanded":false,"name":"TRANSFER","order":13,"parentId":0,"scrollX":716,"scrollY":399.3333333333333},
+{"id":10,"expanded":false,"name":"CHEST","order":14,"parentId":0,"scrollX":716,"scrollY":399.3333333333333},
+{"id":11,"expanded":false,"name":"Cửa hàng","order":4,"parentId":3,"scrollX":716,"scrollY":399.3333333333333},
+{"id":12,"expanded":true,"name":"Cánh đồng hoa","order":8,"parentId":8,"scrollX":644.4,"scrollY":359.4},
+null,
+{"id":14,"expanded":true,"name":"Nhà Jack","order":3,"parentId":3,"scrollX":716,"scrollY":399.3333333333333},
+{"id":15,"expanded":false,"name":"Mobs","order":16,"parentId":0,"scrollX":716,"scrollY":399.3333333333333},
+null,
+null,
+{"id":18,"expanded":true,"name":"Khe núi","order":11,"parentId":6,"scrollX":716,"scrollY":399.3333333333333},
+{"id":19,"expanded":false,"name":"Tiệm rèn","order":12,"parentId":18,"scrollX":716,"scrollY":399.3333333333333}
+]
