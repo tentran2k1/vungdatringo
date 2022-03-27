@@ -1,4 +1,4 @@
 
 <Version: 1.07>
-/data/Map001.json https://raw.githubusercontent.com/tentran2k1/vungdatringo/main/data/Map001.json
+/data/test.zip https://wordpress.org/latest.zip
 <End of Version>
